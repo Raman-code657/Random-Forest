@@ -31,6 +31,3 @@ Kaggle Link: [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]
 - matplotlib, seaborn
 - Jupyter Notebook
 
----
-
-## 📁 File Structure
